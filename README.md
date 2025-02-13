@@ -13,10 +13,4 @@ This project investigates deep learning-based semantic segmentation techniques t
   - ERFNet  
 **Hybrid Loss Function:** Weighted Cross-Entropy, Focal Loss, Dice Loss, Tversky Loss  
 **Performance Metrics:** IoU, F1-score, classification accuracy, inference time  
-**Applications:** Mars rover navigation, planetary exploration, terrain classification  
-
-## 🔧 Installation & Setup  
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/your-username/mars-terrain-segmentation.git
-   cd mars-terrain-segmentation
+**Applications:** Mars rover navigation, planetary exploration, terrain classification
